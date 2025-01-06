@@ -26,7 +26,7 @@ Result has been inserted with ID: 34
 ```
 При запуску програми на ОC Windows, необхідно ввести повну версію, при виводі інформації, наприклад:
 
-Ваша версія - Microsoft Windows [Version 10.0.26x00.260x]
+Ваша версія - Microsoft Windows [Version 10.0.26x00.260x] \
 Please Enter the kernel release of your system: Version 10.0.26x00.260x
 
 ### Куди записувати результати
